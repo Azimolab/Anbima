@@ -1,0 +1,896 @@
+[
+    {
+        "NODE_ID": "",
+        "ELEMENTTEXT": "C1_REPLAY",
+        "ELEMENTID": "button_c1_loop_219f98",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "",
+        "ELEMENTTEXT": "C2_REPLAY",
+        "ELEMENTID": "button_c2_loop_b9a3eb",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "",
+        "ELEMENTTEXT": "C3_REPLAY",
+        "ELEMENTID": "button_c3_loop_9131a1",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "",
+        "ELEMENTTEXT": "C4_REPLAY",
+        "ELEMENTID": "button_c4_loop_2db35a",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a1_38a493",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_a1_38a493",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_c1_a1_loop_09617a",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c1_a1_loop_a237ad",
+        "COUNT(*)": 8
+    },
+    {
+        "NODE_ID": "node_c1_a1_loop_09617a",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a1_loop_09617a",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c1_a1_loop_a237ad",
+        "COUNT(*)": 12
+    },
+    {
+        "NODE_ID": "node_c1_a2_71689f",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a2_71689f",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_a2_71689f",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_a2_71689f",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 10
+    },
+    {
+        "NODE_ID": "node_c1_a2_loop_d637f6",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a2_loop_d637f6",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a2_loop_d637f6",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c1_a2_loop_8babbb",
+        "COUNT(*)": 25
+    },
+    {
+        "NODE_ID": "node_c1_a2_loop_d637f6",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c1_a2_loop_9876c2",
+        "COUNT(*)": 6
+    },
+    {
+        "NODE_ID": "node_c1_a3_7c6709",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c1_a3_9b3fad",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c1_a3_7c6709",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_a3_7c6709",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c1_a3_loop_991969",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c1_a3_loop_014f90",
+        "COUNT(*)": 6
+    },
+    {
+        "NODE_ID": "node_c1_a3_loop_991969",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c1_a3_loop_014f90",
+        "COUNT(*)": 15
+    },
+    {
+        "NODE_ID": "node_c1_atd1_09617a",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c1_atd1_a237ad",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_atd2_d637f6",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_atd2_d637f6",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 26
+    },
+    {
+        "NODE_ID": "node_c1_atd2_d637f6",
+        "ELEMENTTEXT": "Reiniciar",
+        "ELEMENTID": "button_menu_layer_c16079",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "1 - Atitude Empreendedora",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_A1",
+        "ELEMENTID": "button_c1_loop_430e38",
+        "COUNT(*)": 28
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_A2",
+        "ELEMENTID": "button_c1_loop_32c089",
+        "COUNT(*)": 44
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_A3",
+        "ELEMENTID": "button_c1_loop_ce3873",
+        "COUNT(*)": 39
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_ATD1",
+        "ELEMENTID": "button_c1_loop_71d23e",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_ATD1",
+        "ELEMENTID": "button_c1_loop_a2986a",
+        "COUNT(*)": 16
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_ATD2",
+        "ELEMENTID": "button_c1_loop_efb52e",
+        "COUNT(*)": 43
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_ATD3",
+        "ELEMENTID": "button_c1_loop_e4d746",
+        "COUNT(*)": 15
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "C1_REPLAY",
+        "ELEMENTID": "button_c1_loop_219f98",
+        "COUNT(*)": 13
+    },
+    {
+        "NODE_ID": "node_c1_loop_948977",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 16
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "1 - Atitude Empreendedora",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c1_q_c98c5a",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 33
+    },
+    {
+        "NODE_ID": "node_c2_atd1_f9619e",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_atd1_f9619e",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "1 - Atitude Empreendedora",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "Competência 3",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 25
+    },
+    {
+        "NODE_ID": "node_c2_intro_4d4fde",
+        "ELEMENTTEXT": "Reiniciar",
+        "ELEMENTID": "button_menu_layer_c16079",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "C2_ATD1",
+        "ELEMENTID": "button_c2_loop_d3fd08",
+        "COUNT(*)": 34
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "C2_ATD2",
+        "ELEMENTID": "button_c2_loop_3a58b3",
+        "COUNT(*)": 22
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "C2_ATD3",
+        "ELEMENTID": "button_c2_loop_06312c",
+        "COUNT(*)": 19
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "C2_REPLAY",
+        "ELEMENTID": "button_c2_loop_b9a3eb",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_loop_0fcc68",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c2_q_a1_loop_74b593",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c2_q_a1_loop_74b593",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c2_q_a1_loop_74b593",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c2_q_a1_loop_38fdb1",
+        "COUNT(*)": 20
+    },
+    {
+        "NODE_ID": "node_c2_q_a2_loop_2eace3",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c2_q_a2_loop_96d891",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c2_q_a2_loop_2eace3",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c2_q_a2_loop_96d891",
+        "COUNT(*)": 11
+    },
+    {
+        "NODE_ID": "node_c2_q_a3_loop_71e110",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c2_q_a3_loop_bd02ea",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c2_q_a3_loop_71e110",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c2_q_a3_loop_bd02ea",
+        "COUNT(*)": 9
+    },
+    {
+        "NODE_ID": "node_c2_q_c3f29c",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c2_q_c3f29c",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c3_atd1_948ed3",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_atd2_be69ab",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_atd2_be69ab",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_loop_34aaf9",
+        "ELEMENTTEXT": "C3_ATD1",
+        "ELEMENTID": "button_c3_loop_1accb0",
+        "COUNT(*)": 26
+    },
+    {
+        "NODE_ID": "node_c3_loop_34aaf9",
+        "ELEMENTTEXT": "C3_ATD2",
+        "ELEMENTID": "button_c3_loop_0a110b",
+        "COUNT(*)": 15
+    },
+    {
+        "NODE_ID": "node_c3_loop_34aaf9",
+        "ELEMENTTEXT": "C3_ATD3",
+        "ELEMENTID": "button_c3_loop_f1d627",
+        "COUNT(*)": 15
+    },
+    {
+        "NODE_ID": "node_c3_loop_34aaf9",
+        "ELEMENTTEXT": "C3_REPLAY",
+        "ELEMENTID": "button_c3_loop_9131a1",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c3_loop_34aaf9",
+        "ELEMENTTEXT": "Situação 3",
+        "ELEMENTID": "button_menu_layer_f80167",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_a1_loop_5d2856",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_a1_loop_5d2856",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c3_q_a1_loop_5d2856",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c3_q_a1_loop_135087",
+        "COUNT(*)": 17
+    },
+    {
+        "NODE_ID": "node_c3_q_a2_loop_07e807",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c3_q_a2_loop_4fee4d",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c3_q_a2_loop_07e807",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c3_q_a2_loop_4fee4d",
+        "COUNT(*)": 6
+    },
+    {
+        "NODE_ID": "node_c3_q_a3_loop_ff4851",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c3_q_a3_loop_d35584",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c3_q_a3_loop_ff4851",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c3_q_a3_loop_d35584",
+        "COUNT(*)": 10
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "1 - Atitude Empreendedora",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "Competência 4",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 19
+    },
+    {
+        "NODE_ID": "node_c3_q_b4f81e",
+        "ELEMENTTEXT": "Situação 4",
+        "ELEMENTID": "button_menu_layer_ad7428",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_atd2_941805",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_atd2_941805",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "C4_ATD1",
+        "ELEMENTID": "button_c4_loop_57638b",
+        "COUNT(*)": 17
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "C4_ATD2",
+        "ELEMENTID": "button_c4_loop_19dc4a",
+        "COUNT(*)": 20
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "C4_ATD3",
+        "ELEMENTID": "button_c4_loop_04f689",
+        "COUNT(*)": 14
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "C4_REPLAY",
+        "ELEMENTID": "button_c4_loop_2db35a",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "Competência 4",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_loop_a78498",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "Competência 2",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "Competência 5",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 14
+    },
+    {
+        "NODE_ID": "node_c4_q_0832ab",
+        "ELEMENTTEXT": "Situação 5",
+        "ELEMENTID": "button_menu_layer_7c8e6e",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c4_q_a1_loop_b03bfd",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c4_q_a1_loop_a2d55a",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c4_q_a1_loop_b03bfd",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c4_q_a1_loop_a2d55a",
+        "COUNT(*)": 8
+    },
+    {
+        "NODE_ID": "node_c4_q_a2_loop_5cdae8",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c4_q_a2_loop_626e0e",
+        "COUNT(*)": 15
+    },
+    {
+        "NODE_ID": "node_c4_q_a3_loop_64174f",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c4_q_a3_loop_d3e69f",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_c4_q_a3_loop_64174f",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c4_q_a3_loop_d3e69f",
+        "COUNT(*)": 7
+    },
+    {
+        "NODE_ID": "node_c5_atd1_b4bbf8",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_atd1_b4bbf8",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_loop_87365f",
+        "ELEMENTTEXT": "Button1",
+        "ELEMENTID": "button_c5_loop_61f11a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_loop_87365f",
+        "ELEMENTTEXT": "C5_ATD1",
+        "ELEMENTID": "button_c5_loop_f02a68",
+        "COUNT(*)": 25
+    },
+    {
+        "NODE_ID": "node_c5_loop_87365f",
+        "ELEMENTTEXT": "C5_ATD2",
+        "ELEMENTID": "button_c5_loop_9a373e",
+        "COUNT(*)": 19
+    },
+    {
+        "NODE_ID": "node_c5_loop_87365f",
+        "ELEMENTTEXT": "C5_ATD3",
+        "ELEMENTID": "button_c5_loop_58ee83",
+        "COUNT(*)": 11
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Competência 4",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Competência 5",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_519106",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 12
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Final",
+        "ELEMENTID": "button_menu_layer_203c99",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_c5_q_9bb19e",
+        "ELEMENTTEXT": "Reiniciar",
+        "ELEMENTID": "button_menu_layer_c16079",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_a1_loop_8bf707",
+        "ELEMENTTEXT": "Seguir",
+        "ELEMENTID": "button_c5_q_a1_loop_255a57",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_c5_q_a2_loop_50d13c",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c5_q_a2_loop_93de57",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_c5_q_a2_loop_50d13c",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c5_q_a2_loop_93de57",
+        "COUNT(*)": 8
+    },
+    {
+        "NODE_ID": "node_c5_q_a3_loop_8a5ca5",
+        "ELEMENTTEXT": "",
+        "ELEMENTID": "button_c5_q_a3_loop_64288d",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_c5_q_a3_loop_8a5ca5",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_c5_q_a3_loop_64288d",
+        "COUNT(*)": 6
+    },
+    {
+        "NODE_ID": "node_end_8f6bd5",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_end_8f6bd5",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_end_8f6bd5",
+        "ELEMENTTEXT": "Refazer",
+        "ELEMENTID": "button_end_7df609",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_end_8f6bd5",
+        "ELEMENTTEXT": "Sair",
+        "ELEMENTID": "button_end_5e3397",
+        "COUNT(*)": 4
+    },
+    {
+        "NODE_ID": "node_fim_loop_74f9c2",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_fim_loop_74f9c2",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_fim_loop_74f9c2",
+        "ELEMENTTEXT": "Sim",
+        "ELEMENTID": "button_fim_loop_4a9d5e",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "1 - Atitude Empreendedora",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "1 - Empreendedorismo",
+        "ELEMENTID": "button_menu_layer_23e75d",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "2 - Flexibilidade",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 5
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "3 - Autonomia",
+        "ELEMENTID": "button_menu_layer_eb8650",
+        "COUNT(*)": 6
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "4 - Desenvolvimento",
+        "ELEMENTID": "button_menu_layer_ac4032",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "5 - Colaboração",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 10
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Competência 2",
+        "ELEMENTID": "button_menu_layer_1cacec",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Competência 5",
+        "ELEMENTID": "button_menu_layer_4a8d4b",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_519106",
+        "COUNT(*)": 1
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Expand/Collapse",
+        "ELEMENTID": "button_menu_layer_98b02a",
+        "COUNT(*)": 124
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Final",
+        "ELEMENTID": "button_menu_layer_203c99",
+        "COUNT(*)": 2
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Reiniciar",
+        "ELEMENTID": "button_menu_layer_c16079",
+        "COUNT(*)": 3
+    },
+    {
+        "NODE_ID": "node_start_556086",
+        "ELEMENTTEXT": "Sair",
+        "ELEMENTID": "button_menu_layer_2cb62a",
+        "COUNT(*)": 3
+    }
+]
